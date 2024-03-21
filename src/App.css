@@ -1,0 +1,21 @@
+.notreTitre {
+    width: auto;
+    margin: 100px ;
+    margin-left: 400px;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.Cardss {
+    width: 300px;
+}
+
+.logo {
+    width: 300px;
+    height: 50px;
+}
